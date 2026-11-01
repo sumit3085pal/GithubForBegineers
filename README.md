@@ -1,1 +1,3 @@
-THis is my github repo
+This is my first github repo
+<br></br>
+Author - Sumit Pal
